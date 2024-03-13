@@ -1,18 +1,24 @@
+Tes plan 1
 <img width="1153" alt="Screenshot 2024-03-10 at 19 05 45" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/a28979a4-6719-4d5e-b230-522f0d408bbc">
 <img width="1150" alt="Screenshot 2024-03-10 at 19 05 50" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/b877a272-3b8a-4241-ab05-e9bac3b84563">
 <img width="1150" alt="Screenshot 2024-03-10 at 19 05 55" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/bdc89e86-4162-4b74-96b6-2918181cef9b">
 <img width="1154" alt="Screenshot 2024-03-10 at 19 06 00" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/55699147-b86d-4c4a-bbeb-306011c49dee">
+Tes plan 2
 <img width="1152" alt="Screenshot 2024-03-10 at 19 13 43" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/112c1190-3684-4b16-b7ab-360022003cd6">
 <img width="1135" alt="Screenshot 2024-03-10 at 19 13 49" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/ccc196ae-b05c-4cef-9b0f-5f0574090603">
 <img width="1127" alt="Screenshot 2024-03-10 at 19 13 54" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/a444d6d7-2a63-4233-8fee-9977bdae74a8">
 <img width="1133" alt="Screenshot 2024-03-10 at 19 13 59" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/3c0cc03b-44fe-48ec-b4bc-49b4816fe6b1">
+Tes plan 3
 <img width="1146" alt="Screenshot 2024-03-10 at 19 16 14" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/6cd0c71d-8938-4e5c-87fa-9db9ae91702a">
 <img width="1147" alt="Screenshot 2024-03-10 at 19 16 18" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/4d0db421-2211-450c-8cf3-da98098d5169">
 <img width="1145" alt="Screenshot 2024-03-10 at 19 16 21" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/1f5ac557-6626-40cb-8563-f4e2e730345d">
 <img width="1440" alt="Screenshot 2024-03-10 at 19 16 23" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/cccfe3b4-afba-4a4b-87d8-f345805d027b">
 <img width="1151" alt="Screenshot 2024-03-10 at 19 16 27" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/b29a15b7-a254-476b-bb82-a9d079503fb1">
+Tes plan 1 using terminal
 <img width="681" alt="Screenshot 2024-03-10 at 19 21 56" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/6b5ebf05-7a25-4e98-b1a5-a3ac1917f3e1">
+Tes plan 2 using terminal
 <img width="679" alt="Screenshot 2024-03-10 at 19 23 47" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/2e1d42a8-c9d5-4dcc-b99a-a43061b5f650">
+Tes plan 3 using terminal
 <img width="675" alt="Screenshot 2024-03-10 at 19 24 27" src="https://github.com/ferdinandraja/exercise-profiling/assets/121427718/c7e84d7c-231f-40f7-9f6d-c5eaf9d79c67">
 
 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
